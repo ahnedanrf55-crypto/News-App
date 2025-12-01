@@ -137,7 +137,10 @@ The details page includes:
 
 
 
-Uploading WhatsApp Video 2025-12-01 at 18.44.52_1b74792c.mp4…
+
+
+https://github.com/user-attachments/assets/dd8c7603-5de9-4850-b224-3da8d9a78596
+
 
 
 
