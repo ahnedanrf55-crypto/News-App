@@ -127,11 +127,21 @@ The details page includes:
 
 ----------
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 
 ![alt text](Screenshot_1764606295.png)
 
 ![alt text](Screenshot_1764606304.png)
+----------
+## 📸 Video
+
+
+
+Uploading WhatsApp Video 2025-12-01 at 18.44.52_1b74792c.mp4…
+
+
+
+
 ----------
 
 ## 👨‍💻 Developer
